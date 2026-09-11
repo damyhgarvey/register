@@ -1,0 +1,16 @@
+{
+  "description": "TMS DIGITAL ecosystem — official website and digital services.",
+  "domain": "owns.it.com",
+  "subdomain": "tmsdigital",
+  "owner": {
+    "repo": "https://github.com/damyhgarvey/register",
+    "email": "imhacher27@gmail.com"
+  },
+  "record": {
+    "A": [],
+    "AAAA": [],
+    "CNAME": "",
+    "TXT": []
+  },
+  "proxied": false
+}
